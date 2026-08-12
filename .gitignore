@@ -1,2 +1,6 @@
 .vscode
 .git
+build/
+MyRedisCLI
+dump.my_rdb
+my_redis_server
